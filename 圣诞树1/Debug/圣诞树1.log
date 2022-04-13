@@ -1,2 +1,2 @@
 ﻿  test.c
-  圣诞树1.vcxproj -> F:\code\圣诞树1\Debug\圣诞树1.exe
+F:\github\C语言收藏的题\圣诞树1\test.c : fatal error C1090: PDB API 调用失败，错误代码“3”: F:\github\C语言收藏的题\圣诞树1\Debug\vc142.pdb

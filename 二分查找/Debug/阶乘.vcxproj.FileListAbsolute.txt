@@ -1,0 +1,2 @@
+F:\code\阶乘\Debug\阶乘.exe
+F:\github\C语言收藏的题\二分查找\Debug\阶乘.exe

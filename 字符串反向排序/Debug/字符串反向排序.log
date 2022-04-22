@@ -1,0 +1,4 @@
+﻿  test.c
+F:\code\字符串反向排序\test.c(7,3): warning C4033: “fun”必须返回值
+F:\code\字符串反向排序\test.c(12): warning C4716: “fun”: 必须返回一个值
+  字符串反向排序.vcxproj -> F:\code\字符串反向排序\Debug\字符串反向排序.exe

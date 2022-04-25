@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "汉诺塔", "汉诺塔.vcxproj", "{90FB6105-F545-41CE-A2FA-5EA235F3C268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Debug|x64.ActiveCfg = Debug|x64
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Debug|x64.Build.0 = Debug|x64
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Debug|x86.ActiveCfg = Debug|Win32
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Debug|x86.Build.0 = Debug|Win32
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Release|x64.ActiveCfg = Release|x64
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Release|x64.Build.0 = Release|x64
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Release|x86.ActiveCfg = Release|Win32
+		{90FB6105-F545-41CE-A2FA-5EA235F3C268}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413AAECF-7636-48E9-93D1-F3A898749C5E}
+	EndGlobalSection
+EndGlobal
